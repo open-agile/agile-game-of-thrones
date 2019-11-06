@@ -22,6 +22,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "benjaminfontaine",
+      "name": "benjamin fontaine",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14223016?v=4",
+      "profile": "https://github.com/benjaminfontaine",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
