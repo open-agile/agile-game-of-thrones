@@ -1,4 +1,5 @@
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 ![Agile Game of Thrones picture](fichiers_depot/agile_got.png)
 
 # Atelier Agile Game of Thrones
@@ -29,3 +30,19 @@ Vous découvrirez l’importance de la priorisation et de l’estimation avec de
 ## Licence
 
 Agile Game of Thrones de Mael Morel et Romain Schlick est mis à disposition selon les termes de la licence [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions International 4.0 (CC BY-NC-SA 4.0). "Game of Thrones" est une série déposée par HBO (Home Box Office Inc.). Cet atelier pédagogique n'utilise pas l'image de "Game of Thrones" à des fins commerciales.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/mael-morel"><img src="https://avatars3.githubusercontent.com/u/6735474?v=4" width="100px;" alt="mael-morel"/><br /><sub><b>mael-morel</b></sub></a><br /><a href="https://github.com/Zenigata/agilegameofthrones/commits?author=mael-morel" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
