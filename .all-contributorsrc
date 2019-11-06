@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mael-morel",
+      "name": "mael-morel",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6735474?v=4",
+      "profile": "https://github.com/mael-morel",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "agilegameofthrones",
+  "projectOwner": "Zenigata",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
