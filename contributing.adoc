@@ -1,0 +1,9 @@
+= Contribution
+
+Toute contribution est bienvenue ! +
+Que ce soit un ajout, une aide à animer l'atelier, une traduction...
+n'hésitez pas à proposer vos demandes de fusion.
+
+Pour contribuer, il est essentiel d'avoir lu et accepté notre link:code-of-conduct.adoc[code de conduite].
+
+Si quelque chose vous interpelle, ou pour toute question en général, veuillez créer une _issue_.
