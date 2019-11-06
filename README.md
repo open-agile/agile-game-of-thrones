@@ -1,5 +1,5 @@
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 ![Agile Game of Thrones picture](fichiers_depot/agile_got.png)
 
 # Atelier Agile Game of Thrones
@@ -41,6 +41,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/mael-morel"><img src="https://avatars3.githubusercontent.com/u/6735474?v=4" width="100px;" alt="mael-morel"/><br /><sub><b>mael-morel</b></sub></a><br /><a href="https://github.com/Zenigata/agilegameofthrones/commits?author=mael-morel" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Zenigata"><img src="https://avatars1.githubusercontent.com/u/1022393?v=4" width="100px;" alt="Johan Bonneau"/><br /><sub><b>Johan Bonneau</b></sub></a><br /><a href="https://github.com/Zenigata/agilegameofthrones/commits?author=Zenigata" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/benjaminfontaine"><img src="https://avatars0.githubusercontent.com/u/14223016?v=4" width="100px;" alt="benjamin fontaine"/><br /><sub><b>benjamin fontaine</b></sub></a><br /><a href="https://github.com/Zenigata/agilegameofthrones/commits?author=benjaminfontaine" title="Documentation">📖</a></td>
   </tr>
 </table>
 
