@@ -1,0 +1,59 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mael-morel",
+      "name": "mael-morel",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6735474?v=4",
+      "profile": "https://github.com/mael-morel",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Zenigata",
+      "name": "Johan Bonneau",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1022393?v=4",
+      "profile": "https://github.com/Zenigata",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "benjaminfontaine",
+      "name": "benjamin fontaine",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14223016?v=4",
+      "profile": "https://github.com/benjaminfontaine",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rschlick",
+      "name": "rschlick",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1488145?v=4",
+      "profile": "https://github.com/rschlick",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "guenever",
+      "name": "guenever",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37935507?v=4",
+      "profile": "https://github.com/Guenever",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "agilegameofthrones",
+  "projectOwner": "Zenigata",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
