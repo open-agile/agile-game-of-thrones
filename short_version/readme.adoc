@@ -1,0 +1,44 @@
+= Version courte
+
+Il existe une version courte de cet atelier, qui se transforme dès lors en discussions interactives sans support.
+
+Pré-requis :
+
+* [x] un tableau blanc
+* [x] 20 minutes
+
+== En résumé
+
+On peut garder le thème des armures.
+Avec l'auditoire on valorise les pièces d'armures puis on trace la courbe de cumul de défense au fur et à mesure que l'on construit les pièces dans l'ordre décroissant du ROI.
+
+== Déroulé
+
+=== 1. Lister les pièces d'armure
+
+Demander à l'auditoire ce qui compose une armure de chevalier : +
+casque, plastron, bottes, cape, épaulières, gants, cotte de mailles, etc. +
+En obtenir dix suffit. Commencer un tableau avec les pièces.
+
+=== 2. Donner une valeur de protection aux pièces
+
+À l'oral, demander des valeurs de défense de 1 à 10 pour chaque pièce de l'armure. +
+Exemples : 9 pour le casque, 1 pour la cape, 3 pour les bottes, etc.
+
+=== 3. Donner une valeur de temps de fabrication aux pièces
+
+À l'oral, demander des valeurs de temps de 1 à 10 pour chaque pièce de l'armure. +
+Exemples : 4 semaines pour le casque, 2 pour la cape, 8 pour le plastron, etc.
+
+=== 4. Calculer le ROI puis ordonner les pièces
+
+Faire une colonne pour le ROI (protection/temps) puis ordonner les pièces par ROI décroissant.
+
+=== 5. Tracer la courbe de cumul de valeur (burn-up) en fonction du temps
+
+Enfin, tracer la courbe de cumul de défense en fonction du temps en additionnant les protections pièce par pièce.
+
+=== 6. S'arrêter un peu après la moitié du temps pour faire un débrief
+
+Si on continue jusqu'au bout, on atteindra 100 % de la valeur totale à 100 % du temps de fabrication, et l'armure complète sera terminée.
+On peut s'arrêter bien avant pour entamer le débrief, même avec une armure partielle.

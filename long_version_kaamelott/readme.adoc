@@ -1,0 +1,41 @@
+= Version longue Kaamelott
+
+C'est une version plus rythmée et moins compétitive que la version Game of Thrones.
+
+== Objectif
+
+L'atelier met en évidence et fait manipuler de manière ludique certains enjeux de l'approche agile :
+notion de valeur, itérations et adaptation aux changements.
+
+Il s'adresse à un public également très large.
+
+== Contexte
+
+Dans cet atelier, chaque équipe fabrique l'armure de tournoi de son chevalier de la table ronde préféré.
+On y mixe auto-organisation, cycle court, estimation magique, travaux manuels, créativité et engagement.
+
+== Format
+
+Durée :: Cet atelier se déroule sur 120 minutes.
+Nombre de participants :: Entre 5 et 100.
+
+== Supports
+
+Le support principal est disponible en link:++Backlog Armure.pdf++[PDF].
+
+Voici également des link:photo[exemples d'armures] construites par les participants.
+
+== Sessions
+
+.Cet atelier a été joué au moins à ces occasions :
+|===
+|Nom |Lieu |Animateurs
+
+|_Crafter un set d'armure rutilante !_ en thème World of Warcraft
+|Technozaure Zenika Nantes 2018
+|Johan Bonneau et Séverine Luzeau
+
+|_Le jeu des armures_ en thème Kaamelott
+|Agile Tour Toulouse 2018
+|Johan Bonneau et Séverine Luzeau
+|===

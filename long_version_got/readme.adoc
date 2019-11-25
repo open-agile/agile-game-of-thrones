@@ -1,0 +1,52 @@
+= Version longue Game of Thrones
+
+C'est la version originale de l'atelier qui s'est améliorée au fil des sessions.
+
+== Objectif
+
+L'atelier met en évidence et fait manipuler de manière ludique certains enjeux de l'approche agile :
+notion de valeur, itérations et adaptation aux changements.
+
+Il s'adresse à un public très large, du novice au praticien expérimenté.
+
+== Contexte
+
+Dans cet atelier, vous aurez la lourde tâche de défendre votre royaume.
+Vous découvrirez l’importance de la priorisation et de l’estimation avec des armures, des batailles, des statistiques et des itérations.
+
+== Format
+
+Durée :: Cet atelier se déroule sur une durée de 60 à 75 minutes.
+Nombre de participants :: Entre 5 et 35 (observateurs possibles).
+
+== Supports
+
+En tant qu'link:support_animateur[animateur]. +
+En tant que link:support_participant[participant].
+
+== Sessions
+
+.Cet atelier a été joué au moins à ces occasions :
+|===
+|Nom |Lieu |Animateurs
+
+|_Une introduction à l'agilité, ou comment faire les 3/4 avec la moitié_
+|Agile Tour Strasbourg 2017
+|Maël Morel et Christian Gossart
+
+|_Une introduction à l'agilité, ou comment faire les 3/4 avec la moitié_
+|Agile Tour Aix-Marseille 2017
+|Maël Morel
+
+|_La bataille des 3 armées_
+|Meetup Zenika Nantes 2019
+|Maël Morel et Benjamin Fontaine
+
+|_La bataille des 3 armées_
+|Agile Tour Aix-Marseille 2017
+|Maël Morel et Benjamin Fontaine
+
+|_La bataille des 3 armées, ou comment faire les 3/4 avec la moitié_
+|Agile Tour Nantes 2019
+|Maël Morel et Johan Bonneau
+|===
