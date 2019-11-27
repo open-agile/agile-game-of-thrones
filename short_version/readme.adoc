@@ -10,7 +10,7 @@ Pré-requis :
 == En résumé
 
 On peut garder le thème des armures.
-Avec l'auditoire on valorise les pièces d'armures puis on trace la courbe de cumul de défense au fur et à mesure que l'on construit les pièces dans l'ordre décroissant du ROI.
+Avec l'auditoire on valorise les pièces d'armure puis on trace la courbe de cumul de défense au fur et à mesure que l'on construit les pièces dans l'ordre décroissant du ROI.
 
 == Déroulé
 
